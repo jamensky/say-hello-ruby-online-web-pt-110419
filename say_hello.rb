@@ -1,3 +1,3 @@
-def say_hello accepts(name = )
+def say_hello accepts(name = 'Jack')
   puts "Hello #{name}"
 end
